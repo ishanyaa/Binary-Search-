@@ -1,10 +1,10 @@
 Bubble Sort Algorithm README
-This repository contains a Python implementation of the Bubble Sort algorithm, along with a demonstration of its usage to sort a list of random numbers.
+This repository contains a Python implementation of the Bubble Sort algorithm.
 
 Bubble Sort Overview
 Bubble Sort is a simple comparison-based sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted. Although Bubble Sort is not efficient for large lists, it provides a straightforward example of a sorting algorithm and is often used for educational purposes.
 
-Implementation Details
+Implementation Details:
 The bubble_sort function defined in bubble_sort.py takes an input list and sorts it using the Bubble Sort algorithm. The implementation consists of the following steps:
 
 Initialize a variable swapped to True.
@@ -27,5 +27,5 @@ The script generates a list of random numbers, applies the Bubble Sort algorithm
 
 
 
-Contributing
+Contributing:
 If you would like to contribute to this project by improving the Bubble Sort implementation or adding more sorting algorithms, feel free to fork this repository and submit a pull request with your changes.
